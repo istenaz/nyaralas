@@ -58,7 +58,7 @@ ul li.active a{
 
 .title{
     position: absolute;
-    top: 47%;
+    top: 46%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
@@ -66,4 +66,20 @@ ul li.active a{
 .title h1{
     color: #fff;
     font-size: 70px;
+}
+
+.button{
+    position: absolute;
+    top: 54%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+.btn{
+    border: 1px solid #fff;
+    padding: 5px 20px;
+    color: #fff;
+    transition: 0.5 ease;
+    font-size: 18px;
 }
